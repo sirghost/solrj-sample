@@ -1,0 +1,4 @@
+solrj-sample
+============
+
+Solrj sample
