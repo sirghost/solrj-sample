@@ -1,4 +1,4 @@
 solrj-sample
 ============
 
-Solrj sample
+Solrj sample using a POJO
